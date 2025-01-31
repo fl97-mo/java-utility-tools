@@ -2,7 +2,7 @@
 A small collection of different java tools to make your projects easier and more efficient.
 
 ## Tools:
----
+
 ### ColorAdapter
 - A **Gson TypeAdapter** for serializing and deserializing `java.awt.Color` objects to/from JSON.
 - **Features**:
