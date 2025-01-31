@@ -1,8 +1,8 @@
 # Java Utility Tools
 A small collection of different java tools to make your projects easier and more efficient.
 
-## Tools
-
+## Tools:
+---
 ### ColorAdapter
 - A **Gson TypeAdapter** for serializing and deserializing `java.awt.Color` objects to/from JSON.
 - **Features**:
@@ -52,7 +52,7 @@ A small collection of different java tools to make your projects easier and more
    ```
 2. **Add the classes to your project**:
    - Copy the `com.utilitytools.swingutils.WrapLayout` class if you need a custom FlowLayout.
-   - Copy the `com.utilitytools.gson.ColorAdapter` class if you need a Gson TypeAdapter for `java.awt.Color`.
+   - Copy the `com.utilitytools.coloradapter.ColorAdapter` class if you need a Gson TypeAdapter for `java.awt.Color`.
 3. **Compile and run**:
    - Compile the Java files and include them in your project.
    - Use the classes in your project as shown in the examples above.
